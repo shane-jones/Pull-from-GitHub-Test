@@ -1,3 +1,7 @@
 This is a test file with only one purpose. To see if I can create a respository using it on my local disk in the folder of my choice.
 
+I have added this after opening via explorer.
+
+and this 
 I have added this.
+
